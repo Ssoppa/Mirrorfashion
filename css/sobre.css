@@ -22,6 +22,11 @@ figure {
     border: 1px solid #ccc;
     text-align: center;
     }
+#centro-distribuicao {
+    margin-left: auto;
+    mergin-right: auto;
+    width: 550px;
+    }
 figcaption {
     font-style: italic;
     margin-top: 10px;
