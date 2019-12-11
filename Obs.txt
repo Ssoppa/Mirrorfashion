@@ -1,3 +1,0 @@
-Teoricamente, segundo o curso, é necessário essa linha antes do título, logo abaixo ao head:
-        <meta charset="utf-8">
-Mas quando coloco, os acentos param de funcionar.
